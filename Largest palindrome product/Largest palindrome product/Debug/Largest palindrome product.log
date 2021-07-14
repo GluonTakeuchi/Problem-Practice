@@ -1,0 +1,5 @@
+﻿  Largest palindrome product.cpp
+C:\Users\Talu\source\repos\Largest palindrome product\Largest palindrome product\Largest palindrome product.cpp(20,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Talu\source\repos\Largest palindrome product\Largest palindrome product\Largest palindrome product.cpp(32,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Talu\source\repos\Largest palindrome product\Largest palindrome product\Largest palindrome product.cpp(60,6): warning C4101: 'number': unreferenced local variable
+  Largest palindrome product.vcxproj -> C:\Users\Talu\source\repos\Largest palindrome product\Debug\Largest palindrome product.exe
