@@ -1,0 +1,4 @@
+﻿  Valami Cplusplus.cpp
+C:\Users\Talu\source\repos\Valami Cplusplus\Valami Cplusplus\Valami Cplusplus.cpp(40,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Talu\source\repos\Valami Cplusplus\Valami Cplusplus\Valami Cplusplus.cpp(49,35): warning C4018: '<': signed/unsigned mismatch
+  Valami Cplusplus.vcxproj -> C:\Users\Talu\source\repos\Valami Cplusplus\Debug\Valami Cplusplus.exe
