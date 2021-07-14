@@ -1,0 +1,6 @@
+﻿  Largest prime factor.cpp
+C:\Users\Talu\source\repos\Largest prime factor\Largest prime factor\Largest prime factor.cpp(18,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Talu\source\repos\Largest prime factor\Largest prime factor\Largest prime factor.cpp(29,27): warning C4305: 'initializing': truncation from '__int64' to 'int'
+C:\Users\Talu\source\repos\Largest prime factor\Largest prime factor\Largest prime factor.cpp(29,15): warning C4309: 'initializing': truncation of constant value
+C:\Users\Talu\source\repos\Largest prime factor\Largest prime factor\Largest prime factor.cpp(32,23): warning C4018: '<': signed/unsigned mismatch
+  Largest prime factor.vcxproj -> C:\Users\Talu\source\repos\Largest prime factor\Debug\Largest prime factor.exe
