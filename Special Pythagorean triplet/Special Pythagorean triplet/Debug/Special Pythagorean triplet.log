@@ -1,0 +1,6 @@
+﻿  Special Pythagorean triplet.cpp
+C:\Users\Talu\source\repos\Special Pythagorean triplet\Special Pythagorean triplet\Special Pythagorean triplet.cpp(19,15): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Talu\source\repos\Special Pythagorean triplet\Special Pythagorean triplet\Special Pythagorean triplet.cpp(31,11): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Talu\source\repos\Special Pythagorean triplet\Special Pythagorean triplet\Special Pythagorean triplet.cpp(35,11): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Talu\source\repos\Special Pythagorean triplet\Special Pythagorean triplet\Special Pythagorean triplet.cpp(79,16): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  Special Pythagorean triplet.vcxproj -> C:\Users\Talu\source\repos\Special Pythagorean triplet\Debug\Special Pythagorean triplet.exe
