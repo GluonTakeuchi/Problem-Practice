@@ -1,0 +1,6 @@
+﻿  Largest product in a grid.cpp
+C:\Users\Talu\source\repos\Largest product in a grid\Largest product in a grid\Largest product in a grid.cpp(51,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Talu\source\repos\Largest product in a grid\Largest product in a grid\Largest product in a grid.cpp(73,26): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Talu\source\repos\Largest product in a grid\Largest product in a grid\Largest product in a grid.cpp(94,26): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Talu\source\repos\Largest product in a grid\Largest product in a grid\Largest product in a grid.cpp(120,26): warning C4018: '<': signed/unsigned mismatch
+  Largest product in a grid.vcxproj -> C:\Users\Talu\source\repos\Largest product in a grid\Debug\Largest product in a grid.exe
